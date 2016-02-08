@@ -1,0 +1,36 @@
+body{
+
+	background-color: #f0f0f0;
+	margin: 50px 100px;
+}
+
+.headline{
+
+	color: #141414;
+	font-family: Arial;
+	line-height: 10px;
+}
+
+#subhead{
+	font-style: italic;
+
+}
+
+.story{
+	color: #141414;
+	font-family: Times;
+}
+
+.image{
+	float: right;
+	padding: 10px;
+
+}
+
+.caption{
+
+	width: 500px;
+	height: 100px;
+	clear: right;
+	float: right;
+}
